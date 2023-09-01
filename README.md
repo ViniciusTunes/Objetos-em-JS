@@ -10,9 +10,7 @@
    </ul>
 
 <h2>Exemplo de um dos códigos postados:</h2>
-<ul>
 ![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1147170159098871878/image.png)
-</ul>
 
  ## 📱 Redes Sociais:
 * Meu [GitHub](https://github.com/ViniciusTunes)
