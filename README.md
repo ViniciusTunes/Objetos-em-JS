@@ -9,9 +9,9 @@
       <li>Visual Studio Code</li>
    </ul>
 
-<h2>Domínio para Acesso:</h2>
+<h2>Exemplo de um dos códigos postados:</h2>
 <ul>
-<li> https://jogo-do-numero-secreto-delta.vercel.app/</li>
+![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1147170159098871878/image.png)
 </ul>
 
  ## 📱 Redes Sociais:
