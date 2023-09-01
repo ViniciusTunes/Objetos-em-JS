@@ -7,7 +7,6 @@
   <ul>
       <li>JavaScript</li>
       <li>Visual Studio Code</li>
-      <li>Css</li>
       <li>Html</li>
    </ul>
 
