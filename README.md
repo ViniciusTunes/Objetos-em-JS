@@ -7,11 +7,7 @@
   <ul>
       <li>JavaScript</li>
       <li>Visual Studio Code</li>
-      <li>Html</li>
    </ul>
-
-
-![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1143194336775905431/image.png)
 
 <h2>Domínio para Acesso:</h2>
 <ul>
